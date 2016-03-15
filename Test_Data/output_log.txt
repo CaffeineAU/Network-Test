@@ -1,0 +1,77 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce GTX 260 (ID=0x5e2)
+    Vendor:   NVIDIA
+    VRAM:     863 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Github Repositories\Network-Test\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.717580 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296181 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.224628 ms (FindLiveObjects: 0.009970 ms CreateObjectMapping: 0.007917 ms MarkObjects: 0.202341 ms  DeleteObjects: 0.003812 ms)
+
+I'm Cube(Clone) and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm Cube(Clone) and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256592 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.149557 ms (FindLiveObjects: 0.006158 ms CreateObjectMapping: 0.007037 ms MarkObjects: 0.131962 ms  DeleteObjects: 0.004105 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b8c -> priority: 1 
+  Thread -> id: 2ebc -> priority: 1 
