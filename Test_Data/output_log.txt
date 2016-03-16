@@ -14,7 +14,7 @@ Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEn
 Loading E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading E:\Github Repositories\Network-Test\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.084 seconds
+- Completed reload, in  0.063 seconds
 Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Github Repositories\Network-Test\Test_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
@@ -22,56 +22,336 @@ desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.717580 ms
+UnloadTime: 0.904673 ms
+got board manager object: GameStateManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.296181 ms
+UnloadTime: 0.235772 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 199.
-Total: 0.224628 ms (FindLiveObjects: 0.009970 ms CreateObjectMapping: 0.007917 ms MarkObjects: 0.202341 ms  DeleteObjects: 0.003812 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 234.
+Total: 0.153955 ms (FindLiveObjects: 0.009383 ms CreateObjectMapping: 0.006451 ms MarkObjects: 0.134894 ms  DeleteObjects: 0.002932 ms)
 
-I'm Cube(Clone) and it's my turn
+I'm 1 and i'm moving to (18.0, 2.0, -15.0)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's my turn
+I'm 1 and i'm rotating to (270.0, 0.0, 0.0)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's not my turn
+I'm 2 and i'm moving to (-3.0, 2.0, 18.0)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's not my turn
+I'm 2 and i'm rotating to (270.0, 0.0, 0.0)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's my turn
+It's 2's turn
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's my turn
+I'm 2 and it's my turn
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's not my turn
+I'm 2 and it's not my turn
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's not my turn
+It's 1's turn
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-I'm Cube(Clone) and it's my turn
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 1's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and it's not my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+It's 2's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and it's my turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (15.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 2 and i'm moving to (18.0, 2.0, -15.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (15.0, 2.0, -18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-15.0, 2.0, -18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (9.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (12.0, 2.0, -18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-18.0, 2.0, -12.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-18.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-3.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (18.0, 2.0, 15.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (18.0, 2.0, 3.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (12.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (9.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (12.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-18.0, 2.0, -6.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (-18.0, 2.0, 12.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+I'm 1 and i'm moving to (9.0, 2.0, 18.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+removing player 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256886 ms
+got board manager object: GameStateManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.158061 ms (FindLiveObjects: 0.004985 ms CreateObjectMapping: 0.006158 ms MarkObjects: 0.132841 ms  DeleteObjects: 0.013782 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.317002 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.163632 ms (FindLiveObjects: 0.005864 ms CreateObjectMapping: 0.006451 ms MarkObjects: 0.148677 ms  DeleteObjects: 0.002345 ms)
+
+I'm PlayerPiece(Clone) and i'm rotating to (270.0, 0.0, 0.0)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.256592 ms
+UnloadTime: 0.692360 ms
+got board manager object: GameStateManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
-Total: 0.149557 ms (FindLiveObjects: 0.006158 ms CreateObjectMapping: 0.007037 ms MarkObjects: 0.131962 ms  DeleteObjects: 0.004105 ms)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.668607 ms (FindLiveObjects: 0.029031 ms CreateObjectMapping: 0.030497 ms MarkObjects: 0.549548 ms  DeleteObjects: 0.058356 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: b8c -> priority: 1 
-  Thread -> id: 2ebc -> priority: 1 
+  Thread -> id: 428 -> priority: 1 
+  Thread -> id: 1ee4 -> priority: 1 

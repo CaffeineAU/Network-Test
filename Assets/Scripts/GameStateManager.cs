@@ -8,11 +8,21 @@ public class GameStateManager : NetworkManager {
 
     private List<PlayerManager> Players = new List<PlayerManager>();
 
+    public static BoardManager boardScript;                       //Store a reference to our BoardManager which will set up the level.
 
     public int turn = 0;
 
-	// Use this for initialization
-	void Start () {
+    void Awake()
+    {
+        boardScript = GetComponent<BoardManager>();
+        boardScript.SetupScene();
+
+        Debug.Log("got board manager object: " + boardScript.name);
+
+    }
+
+    // Use this for initialization
+    void Start () {
 	
 	}
 	
@@ -46,15 +56,37 @@ public class GameStateManager : NetworkManager {
     // called when a new player is added for a client
     public override void OnServerAddPlayer(NetworkConnection conn, short playerControllerId)
     {
-        var player = (GameObject)GameObject.Instantiate(playerPrefab, RandomPosition(), Quaternion.identity);
+        var player = (GameObject)GameObject.Instantiate(playerPrefab, RandomTradeSquareCentre(), playerPrefab.transform.rotation);
         Players.Add(player.GetComponent<PlayerManager>());
-        Players[Players.Count-1].name = Players.Count.ToString();
+        Players[Players.Count - 1].name = Players.Count.ToString();
+        Players[Players.Count - 1].myLocation = player.transform.position;
+        Players[Players.Count - 1].myRotation = playerPrefab.transform.rotation; // manually sync rotation :(
         NetworkServer.AddPlayerForConnection(conn, player, playerControllerId);
     }
 
-    Vector3 RandomPosition()
+    public override void OnServerRemovePlayer(NetworkConnection conn, PlayerController player)
     {
-        return new Vector3(Random.Range(-10, 10), 0.5f, Random.Range(-10, 10));
     }
 
+    public override void OnServerDisconnect(NetworkConnection conn)
+    {
+        foreach (var player in conn.playerControllers)
+        {
+            Debug.Log("removing player " + player.gameObject.GetComponent<PlayerManager>().name);
+            Players.Remove(player.gameObject.GetComponent<PlayerManager>());
+        }
+
+        base.OnServerDisconnect(conn);
+    }
+
+
+    Vector3 RandomPosition()
+    {
+        return new Vector3(Random.Range(-2, 2), 0.5f, Random.Range(-2, 2));
+    }
+
+    public static Vector3 RandomTradeSquareCentre()
+    {
+        return boardScript.TradeSquares[Random.Range(0, boardScript.TradeSquares.Count)].Centre;
+    }
 }
